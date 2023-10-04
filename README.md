@@ -37,7 +37,7 @@ To get started with this API, follow these steps:
 
 The first thing to do is to clone the repository:
 ```shell
-git clone "enter_here_link"
+git clone "https://github.com/adnan9867/ecom_backend.git"
 ```
 Create a virtual environment to install dependencies in and activate it:
 run following command to install python-env
