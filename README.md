@@ -29,7 +29,7 @@ To get started with this API, follow these steps:
 
 ### Prerequisites
 
-- Python (version X.X.X)
+- Python (version 3.1.1)
 - PostgreSQL database (or other preferred databases)
 
 ### Installation
